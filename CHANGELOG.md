@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-package-tools` will be documented in this file.
 
+## Initial release - 2023-06-20
+
+Initial release
+
 ## 1.15.0 - 2023-04-27
 
 ### What's Changed
